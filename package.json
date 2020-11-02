@@ -1,0 +1,14 @@
+{
+  "name": "read-account-pending-payout",
+  "version": "1.0.0",
+  "description": "REST APIs - Read an account's pending payouts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vinhbhn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

@@ -9,6 +9,7 @@
   "author": "vinhbhn",
   "license": "ISC",
   "dependencies": {
+    "@substrate/api-sidecar": "^3.0.1",
     "axios": "^0.21.1"
   }
 }

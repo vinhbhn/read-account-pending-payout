@@ -1,5 +1,3 @@
-# Read an account's pending payouts
-
 ## Using
 
 ```
